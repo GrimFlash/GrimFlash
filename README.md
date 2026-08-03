@@ -2,18 +2,17 @@
 
 <h2>🎓 Certifications</h2>
 
+- [GRC Mastery ISO 27001 Certified Lead Auditor](https://www.credly.com/badges/6e560bcf-9aa2-4a3b-8d56-83ba98124661/linked_in_profile)
 - [GRC Mastery](https://www.credly.com/badges/3fc9f052-9895-4ccc-8b5d-299fd07fb18c/public_url)
 - [Google Cybersecurity Professional Certificate V2](https://www.credly.com/badges/a9b16e05-158e-4a63-a36d-2145607067b8/linked_in_profile)
 - [CompTIA Security+ ce Certification](https://www.credly.com/badges/1a19d01d-915e-41e5-876f-308db2fe6ca8/linked_in_profile)
 - [Google Cybersecurity Professional Certificate V2](https://www.credly.com/badges/a9b16e05-158e-4a63-a36d-2145607067b8/linked_in_profile)
 - [Google AI Essentials V1](https://www.credly.com/badges/4e0410b4-0ee0-4689-bb29-341c1ffc3edf/linked_in_profile)
 
-<h2>👨‍💻 TryHackMeProjects:</h2>
-
-- <b>Cyber Defense Frameworks</b>
-  - [Summit (Pyramid of Pain)](https://docs.google.com/document/d/1yY26HGdQmNbG5xd06276QNojjEk4HTYaxL1c__RyPTY/edit?tab=t.0#heading=h.exa3ms12s5xj)
-
 <h2>📝 GRC Mastery Projects</h2>
+
+- <b>GRC Mastery ISO 27001 Capstone</b>
+  - [Stark Industries ISO/IEC 27001:2022 ISMS](https://drive.google.com/drive/folders/1qj-cq1CtDwhvSSeEV1eRSaqgjXKtbMSs?usp=sharing)
 
 - <b>GRC Mastery Capstone</b>
   - [NIST Cyber Security Assessment](https://docs.google.com/spreadsheets/d/1Kzp59uUP8Rf-TvX6TRTG1hZj0vAz4rQ8/edit?gid=768232350#gid=768232350)
@@ -21,6 +20,11 @@
 
 - <b>Incident Response</b>
   - [Cyber Incident Response Plan](https://docs.google.com/document/d/1aUwMTzk6eu86xaI3XYFlQ5JCOriCn4qZ/edit)
+
+<h2>👨‍💻 TryHackMeProjects:</h2>
+
+- <b>Cyber Defense Frameworks</b>
+  - [Summit (Pyramid of Pain)](https://docs.google.com/document/d/1yY26HGdQmNbG5xd06276QNojjEk4HTYaxL1c__RyPTY/edit?tab=t.0#heading=h.exa3ms12s5xj)
 
 <h2> Google Cybersecurity Projects</h2>
 
